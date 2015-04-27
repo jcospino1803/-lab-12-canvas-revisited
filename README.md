@@ -1,1 +1,1 @@
-# -lab-12-canvas-revisited
+ -lab-12...we're revisiting functions and canvas"
